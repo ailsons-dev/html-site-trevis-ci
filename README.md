@@ -1,5 +1,5 @@
 <!-- Status do TravisCI -->
-[![Build Status](https://travis-ci.org/NanathRegina/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.org/NanathRegina/DevOpsLab-HelloWorld)
+[![Build Status](https://travis-ci.org/NanathRegina/html-site-python.svg?branch=master)](https://travis-ci.org/NanathRegina/html-site-python)
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 Aplicação simples de portfolio em python e html.
