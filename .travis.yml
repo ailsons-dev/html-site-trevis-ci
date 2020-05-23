@@ -5,7 +5,7 @@ script:
 - python test.py
 deploy:
   provider: heroku
-  app: app-nath-python
+  app: app-portfolio-nath
   on:
     branch: master
   api_key:
