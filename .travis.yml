@@ -3,3 +3,10 @@ python:
 - 3.6.3
 script:
 - python test.py
+deploy:
+  provider: heroku
+  app: app-nath-python
+  on:
+    branch: master
+  api_key:
+    secure: 0d673511-4453-47d8-84db-af78e3f6e644
