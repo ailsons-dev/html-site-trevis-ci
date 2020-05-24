@@ -2,6 +2,8 @@ language: python
 python:
 - 3.6.3
 sudo: required
+install:
+- pip install flask
 script:
 - python test.py
 deploy:
