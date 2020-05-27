@@ -3,3 +3,8 @@ python:
 - 3.6.3
 script:
 - python test.py
+deploy:  
+  provider: heroku  
+  app: myapp-ailsons 
+  on:    
+    branch: master
