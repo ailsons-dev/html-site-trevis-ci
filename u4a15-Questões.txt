@@ -1,0 +1,118 @@
+1- POS AULA
+No dia a dia dos desenvolvedores podem surgir problemas ou necessidades onde a contribuição de outros desenvovledores ou usuários pode trazer uma solução. Nesse contexto, podemos considerar as formas de utilização do GIT e o processo de colaboração suportado por plataformas como GitHub que oferece recursos e funcionalidades para simplificar esse processo de colaboração. 
+
+Selecione a alterativa que melhor define o que é um "issue" no processo de contribuição e colaboração no GitHub:
+
+a. Um issue é um problema e deve ser tratado de forma isolada das demais tarefas relacionadas ao repositório de dados. 
+b. Um issue é o registro de um problema criado somente pelo gestor da aplicação.
+c. Um issue é o registro de um bug, mehoria ou comentário sobre arquivos ou códigos fontes de um repositório.
+d. Um issue é o registro de um bug, mehoria ou comentário sobre os preços de consumo da conta gratuita do GitHub.
+e. Um issue é um bug planejado que um desenvolver concluiu como parte da sua entrega.
+
+Geral:  Os issues são registros de bugs, melhorias ou comentários feitos pelos usuários ou desenvolvedores que utilizam uma solução de software ou um repositório de arquivos ou códigos fontes. Os issues são utilizados como forma de contribuição num ambiente colaborativo.
+a. Um issue pode ser um problema e depois de registrado deve ser tratado junto com as demais demandas reportadas.
+b. Um issue pode ser um problema, porém seu registro não é de exclusividade do gestor da aplicação.
+c. Essa é a alternativa correta.
+d. Um issue pode ser uma reclamação sobre preço de uso do GitHub mas não de uma conta sem custo ou gratuita.
+e. Um issue pode ser um reporte de um bug mas não um bug planejado.
+
+1- PRE AULA
+Considerando os seus conhecimentos sobre repositórios de dados e falando sobre a plataforma GIT, sabemos que essa solução suporta o armazenamento e versionamento de códigos fontes e oferece várias funcionalidades para os desenvolvedores e usuários. No cenário de colaboração existem algumas ferramentas na plataforma GiHub que auxiliam o desenvolvedor no seu dia a dia.
+
+Assinale a alternativa correta que define a finalidade das "projects pages" no GitHub:
+
+a. São páginas utilizadas para registrar bugs, melhorias e comentários dos usuários e desenvolvedores.  
+b. São páginas do GitHub utilizadas para mostrar apenas o histórico de commits do repositório.
+c. São páginas criadas de forma automática pelo GitHub e que servem para versionar arquivos de repositórios externos. 
+d. São páginas criadas de forma automática pelo GitHub e que servem para mostrar seu repositório em formato web(páginas html).
+e. São páginas html geradas pelo GitHub e que você precisa publicar em um site de hospedagem.
+
+Geral: As "projects pages" são páginas html(web) geradas de forma automática pelo GitHub e que servem para apresentar o seu repositório em formato web.
+a. A ferramenta para registro de bugs. melhorias e comentários é o "issue" e mão as "projects pages".
+b. As "projects pages" não servem apenas para mostrar histórico de commits do repositório e não são páginas do GitHub.
+c. As "projects pages" não são utilizadas para versionar arquivos de repositórios externos.
+d. Essa é a alternativa correta.
+e. As "projects pages" são gerads pelo GitHub mas não rpecisam ser publicadas em sites de hospedagem.
+
+
+3- PRESENCIAIS
+Considerando que o GIT tem uma certa complexidade para os novos usuários e desenvolvedores, o uso de GUI-Graphic User Interface(Interface Gráfica de Usuário) facilita muito a execução de comandos e operações de GIT através de janelas, botões e menus, consultar por exemplo o histórico de commits(commit history) do repositório pode ser feito com apenas alguns cliques do mouse.
+
+Seleciona a opção que indica qual o objetivo do "commit history" de um repositório GIT:
+
+a. Através do "commit history" podemos consultar quem abriu o último "pull request" para a branch master do repositório.
+b. Acessando o "commit history" podemos visualizar as configurações do repositório no GitHub.
+c. Através do "commit history" podemos consultar a lista das alterações efetivadas no repositório com datas e responsáveis.
+d. Acessando o "commit history" podemos visualizar as páginas de documentação do repositório com datas e responsáveis.
+e. Acessando o "commit history" podemos consultar a lista das branches do repositório com datas de criação e responsáveis.
+
+Geral: "Commits" são as alterações em arquivos e códigos fontes efetivadas no repositório e o "commit history" mostra a lista dessas alterações com as datas de realização e com o nome dos responsáveis pelas alterações.
+a. Para consultar "pull requests" você deve acessar a opção específica "Pull requests" no GitHub.
+b. As configurações de um repositório no GitHub deve ser acessada pela opção "Settings".
+c. Essa é a alternativa correta. 
+d. Para consultar a documentação do repositório você deve acessar a opção específica "Wiki" no GitHub.
+e. Para consultar a lista de branches você deve acessar a opção específica "branches" na aba "<> Code" do GitHub.
+
+--pull request
+Considerando os seus conhecimentos sobre a plataforma GIT, sabemos que essa solução suporta o armazenamento e versionamento de códigos fontes e oferece ainda várias funcionalidades adicionais para os desenvolvedores e usuários. No cenário de colaboração por exemplo, existem algumas ferramentas na plataforma GitHub que contribuem para melhorar a experinecia dos desenvolvedores.
+
+Assinale a alternativa que melhor descreve a finalidade do "pull request" no GitHub quando utilizado num mesmo repositório:
+
+a. Solicitação que o desenvolvedor abre com as alterações finalizadas na "branch" de trabalho para entregar na "branch" master.
+b. Solicitação que o desenvolvedor abre com os issues da "branch" de trabalho para entregar na "branch" master.
+c. Solicitação que o desenvolvedor abre na "branch" master para receber novos "pull requests".
+d. Solicitação que o desenvolvedor abre com as modificações locais que ainda não foram finalizadas para entregar na "branch" master.
+e. Solicitação que o desenvolvedor abre para que seja criada uma nova branch master no repositório.
+
+Geral: Uma solicitação de pull request quando aberta no GitHub no mesmo repositório tem o objetivo de entregar alterações finalizadas numa outra branch de trabalho do desenvolvedor para a branch principal(master).
+a. Essa é a alterantiva correta
+b. Não existe solicitação ou fluxo para inclusão de issues em branches no GitHub.
+c. Não é necessário abrir uma solicitação para abrir um "pull request" no GitHub, o "pull request" em si já e a solicitação.
+d. As modificações locais ainda não foram finalizadas e portanto não devem ser entregues para a "branch" master.
+e. É recomendado que um repositório possua apenas uma única branch master e para criar uma branch não é necessário abrir um "pull request".
+
+
+2 - FIM DE UNIDADE
+Analisando o fluxo de trabalho do GIT e seus conceitos chaves podemos perceber que existem diversas formas de uso que contribuem para um melhor desempenho das equipes e também ajudam na solução de problemas relacionados ao controle de versionamento e armazenamento de arquivos e códigos fontes.
+Observando a tabela abaixo, faça a associação do conceito chave com sua característica correspondente.
+
+Conceito	Característica
+I-issues 	1. Ramificação de versão do repositório para melhor organizar o trabalho paralelo.
+II-branch	2. Evento de unir alterações realizadas por usuários distintos no mesmo projeto.
+III-tag		3. Ações de contribuições que os usuários e desenvolvedores podem registrar como problemas, dúvidas ou melhorias.
+IV-merge	4. Ato de criar marcações de versões específicas dos arquivos do projeto.
+
+Assinale a alternativa que corresponde a associação correta entre conceito e característica do GIT:
+a. I-4, II-3, III-2 e IV-1
+b. I-2, II-4, III-1 e IV-3
+c. I-1, II-4, III-3 e IV-2
+d. I-2, II-3, III-4 e IV-1
+e. I-3, II-1, III-4 e IV-2 (X)
+
+
+
+DISCURSIVA
+Para as questões a seguir considere o seguinte cenário:
+A empresa que você trabalha tem tido problemas recorrentes com versionamento e hospedagem do código fonte de um dos seus produtos de software. A solução é antiga e atende bem as necessidades dos clientes.
+Está em andamento uma avaliação de substituição dessa aplicação por uma solução de mercado com um fornecedor externo, também está em avaliação a modernização da solução atual. 
+O código fonte da aplicação está armazenado em um repositório centralizado e qualquer alteração e correção tem gerado muitos conflitos entre os desenvolvedores.
+O fornecedor da nova solução solicitou a você, líder da equipe, que envie todos os arquivos e códigos fontes para análise e você está pensando numa melhor forma de fazer isso sem perder o controle da versão atual da solução, afinal ela ainda atende bem aos clientes.
+
+
+Considerando este contexto, responda as perguntas abaixo justificando suas respostas com base em seus conhecimentos sobre repositórios de dados e as boas práticas de uso do GIT:
+
+1. Com relação aos problemas de versionamento, qual a melhor forma de avaliar e resolver essa questão ?
+
+Resp1: Avaliar junto com a equipe a possibilidade de migração do código fonte para o GIT.
+Justificativa: Além de oferecer a arquitetura distribuída o GIT que vai oferecer mais liberdade aos desenvolvedores para atuarem no memso projeto de forma simultanea e paralela. Outra vantagem do GIT está na utilização de ramificaçãoes ou branches para controle de versionamento em cenários de trabalho concorrentes como correção de bugs e melhorias da aplicação. 
+
+2. Sobre o compartilhamento do código fonte com o fornecedor externo, de que forma a migração do código fonte para o GIT pode ajudar nessa necessidade ?
+
+Resp2. Migrando o código fonte da aplicação para o GIT entre outros benefícios será possívels realizar clone e fork do projeto no GIT ou até mesmo incluir desenvolvedores do fornecedor nos grupos de trabalhos da empresa acessando o GIT e seus repositórios para consulta ou contribuição.
+Justificativa: Será possível realizar clones e forks da solução atual, dando à empresa junto com o fornecedor a oportunidade de criar um novo produto de software a partir da solução existente.
+
+3. Como o GIT pode contribuir para a tomada de decisão de comprar a nova solução do fornecedor externo ou modernizar a solução atual ?
+
+Resp3: Para ajudar na avaliação e tomada de decisão sobre comprar ou modernizar, o GIT pode contribuir através dos fluxos de trabalho do GIT e dos modelos de contribuição suportados pelo GIT que podem tornar a evolução da aplicação mais simples gerando o menor impacto para o cliente.
+Justificativa: Independente de comprar ou modernizar, a utilização do GIT pode tornar o processo de evolução da solução atual mais simples onde vários desenvolvedores da equipe, da empresa e até do fornecedor externo poderão contribuir para as melhorias e evolução da nova aplicação. 
+
